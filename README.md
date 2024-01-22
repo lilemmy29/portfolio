@@ -18,3 +18,6 @@ Embark on a data-driven journey into the dynamic world of cannabis sales. Levera
 
 #### 5. Online Store Analysis
 Dived into the world of e-commerce with my meticulously crafted Online Store Analysis. This project unfolds a comprehensive exploration of an online retail dataset, encompassing data cleaning, exploratory analysis, and advanced analytical techniques. Uncover valuable insights into product dynamics, sales trends, customer behavior, and geographic impact. This analysis serves as a foundation for targeted marketing, efficient inventory management, and sustainable business growth. Explore the future of online retail through actionable data insights
+
+### Contact
+Feel free to contact me at tolulopeemuleomo@gmail.com.

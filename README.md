@@ -12,3 +12,6 @@ Uncover the nuances of the New York Housing Market through a powerful regression
 
 #### 3. British Airways Feedback Exploration Journey 
 Executed a comprehensive analysis of British Airways customer feedback, utilizing advanced skills in machine learning and text mining for sentiment analysis. Proficiently translated raw feedback into actionable insights, contributing valuable findings for service enhancement. This project showcased my adeptness in leveraging cutting-edge techniques, providing a nuanced understanding of customer experiences and demonstrating my commitment to driving continuous improvement.
+
+#### 4. Cannabis Sales Insights 
+Embark on a data-driven journey into the dynamic world of cannabis sales. Leveraging machine learning on data.gov's weekly retail sales data, this project unveils key insights shaping the adult-use and medical markets. With a perfect-fit model and actionable recommendations for businesses and medical stakeholders, explore the intricacies of cannabis sales in this ever-evolving industry.

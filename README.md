@@ -1,7 +1,5 @@
 # Tolulope Emuleomo
 
-[Profile Picture](https://github.com/account)
-
 ## Data Scientist
 
 Welcome to my data science portfolio!
